@@ -1,6 +1,7 @@
-#!name=瓜子影视
-#!desc=过滤瓜子影视广告
-#!icon=https://raw.githubusercontent.com/1Dora-emon/FaiFaiFai/refs/heads/main/icon/guazi.png
+#!name = 瓜子影视去广告
+#!desc = 过滤瓜子影视广告
+#!icon = https://raw.githubusercontent.com/1Dora-emon/FaiFaiFai/refs/heads/main/icon/guazi.png
+#!tag = 去广告
 
 [Rewrite]
 ^https?:\/\/[\w.-]+\/App\/Ad\/splashInfo reject-dict
